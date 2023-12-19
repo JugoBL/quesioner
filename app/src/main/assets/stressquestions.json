@@ -1,0 +1,130 @@
+{
+  "stressquestions": [
+    {
+      "question": "Saya merasa kesal karena hal-hal sepele.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya cenderung bereaksi berlebihan terhadap situasi.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa sulit untuk rileks.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa mudah marah.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa Saya menggunakan banyak energi gugup.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya menjadi tidak sabar ketika saya mengalami keterlambatan dalam hal apa pun (misalnya lift dan lampu lalu lintas yang terlalu lama).",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa agak sensitif.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa sulit untuk bersantai.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa sangat mudah tersinggung.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa sulit untuk tenang setelah ada sesuatu yang membuat saya kesal.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa sulit menoleransi interupsi terhadap apa yang sedang saya lakukan.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya berada dalam keadaan tegang.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya tidak toleran terhadap apa pun yang menghalangi saya untuk melanjutkan pekerjaan saya.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa gelisah.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "anxietyquestions": [
+    {
+      "question": "Saya merasa mulut saya kering.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya mengalami kesulitan bernapas (misalnya napas terlalu cepat dan sesak napas tanpa adanya aktivitas fisik).",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa gemetar (misalnya kaki terasa lemas).",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya menemukan diri saya dalam situasi yang membuat saya sangat cemas. Saya merasa sangat lega ketika itu berakhir.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa akan pingsan.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya berkeringat banyak (misalnya tangan berkeringat) tanpa adanya suhu tinggi atau aktivitas fisik.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa takut tanpa alasan yang jelas.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya kesulitan menelan.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya menyadari tindakan jantung saya ketika tidak ada aktivitas fisik (misalnya rasa detak jantung meningkat).",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya merasa hampir panik.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    },
+    {
+      "question": "Saya takut kalau saya akan diberikan tanggung jawab beberapa tugas sepele tapi asing.",
+      "options": {
+        "0": {"text": "Tidak Sama Sekali", "points": 0},
+        "1": {"text": "Sedikit merasakan dalam tingkat yang kecil", "points": 1},
+        "2": {"text": "Lumayan merasakan dalam tingkat yang sedang", "points": 2},
+        "3": {"text": "Banget atau sebagian besar waktu merasakan", "points": 3}
+      }
+    }
+  ]
+}

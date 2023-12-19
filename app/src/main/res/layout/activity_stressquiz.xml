@@ -7,7 +7,7 @@
     android:background="@color/background"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".BasicQuiz">
+    tools:context=".StressQuiz">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginTop="-50dp"
-            app:title="DEPPRESION TEST"
+            app:title="STRESS TEST"
             app:titleCentered="true"
             app:titleTextColor="@color/text_color" />
     </com.google.android.material.appbar.AppBarLayout>

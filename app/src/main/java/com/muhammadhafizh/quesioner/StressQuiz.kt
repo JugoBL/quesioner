@@ -11,7 +11,7 @@ import java.io.IOException
 import java.io.InputStream
 
 
-class BasicQuiz : AppCompatActivity() {
+class StressQuiz : AppCompatActivity() {
     private lateinit var quiztext: TextView
     private lateinit var aans: TextView
     private lateinit var bans: TextView
@@ -64,7 +64,7 @@ class BasicQuiz : AppCompatActivity() {
                 resetAnswerStatus(answerView)
             }, 500)
         } else {
-            val intent = Intent(this@BasicQuiz, ResultActivity::class.java)
+            val intent = Intent(this@StressQuiz, ResultActivity::class.java)
             intent.putExtra("points", totalPoints)
             startActivity(intent)
             finish()
@@ -81,10 +81,10 @@ class BasicQuiz : AppCompatActivity() {
 
     private fun loadAllQuestions() {
         questionsItems = ArrayList()
-        val jsonquiz = loadJsonFromAsset("easyquestions.json")
+        val jsonquiz = loadJsonFromAsset("stressquestions.json")
         try {
             val jsonObject = JSONObject(jsonquiz)
-            val questions = jsonObject.getJSONArray("easyquestions")
+            val questions = jsonObject.getJSONArray("stressquestions")
             for (i in 0 until questions.length()) {
                 val question = questions.getJSONObject(i)
 
@@ -133,12 +133,12 @@ class BasicQuiz : AppCompatActivity() {
 
     override fun onBackPressed() {
         super.onBackPressed()
-        MaterialAlertDialogBuilder(this@BasicQuiz)
+        MaterialAlertDialogBuilder(this@StressQuiz)
             .setTitle(R.string.app_name)
             .setMessage("Are you sure want to exit the quiz?")
             .setNegativeButton(android.R.string.no) { dialogInterface, _ -> dialogInterface.dismiss() }
             .setPositiveButton(android.R.string.yes) { _, _ ->
-                startActivity(Intent(this@BasicQuiz, MainActivity::class.java))
+                startActivity(Intent(this@StressQuiz, MainActivity::class.java))
                 finish()
             }
             .show()

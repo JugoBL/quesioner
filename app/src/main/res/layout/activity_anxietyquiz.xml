@@ -7,7 +7,7 @@
     android:background="@color/background"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".BasicQuiz">
+    tools:context=".AnxietyQuiz">
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
@@ -22,7 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginTop="-50dp"
-            app:title="DEPPRESION TEST"
+            app:title="ANXIETY TEST"
             app:titleCentered="true"
             app:titleTextColor="@color/text_color" />
     </com.google.android.material.appbar.AppBarLayout>
@@ -70,7 +70,7 @@
                 android:background="@color/blue_40"
                 android:textColor="@color/text_secondary_color"
                 android:padding="15dp"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:id="@+id/aanswer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"/>
@@ -91,7 +91,7 @@
                 android:background="@color/blue_40"
                 android:textColor="@color/text_secondary_color"
                 android:padding="15dp"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:id="@+id/banswer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"/>
@@ -112,7 +112,7 @@
                 android:background="@color/blue_40"
                 android:textColor="@color/text_secondary_color"
                 android:padding="15dp"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:id="@+id/canswer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"/>
@@ -133,7 +133,7 @@
                 android:background="@color/blue_40"
                 android:textColor="@color/text_secondary_color"
                 android:padding="15dp"
-                android:gravity="center_vertical"
+                android:gravity="center"
                 android:id="@+id/danswer"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"/>

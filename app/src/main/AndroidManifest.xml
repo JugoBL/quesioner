@@ -19,6 +19,12 @@
             android:name=".BasicQuiz"
             android:exported="false" />
         <activity
+            android:name=".AnxietyQuiz"
+            android:exported="false" />
+        <activity
+            android:name=".StressQuiz"
+            android:exported="false" />
+        <activity
             android:name=".SplashActivity"
             android:exported="false" />
         <activity

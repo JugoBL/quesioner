@@ -15,6 +15,6 @@
     <color name="background">#FFFFFFFF</color>
     <color name="card_background">#E5F6FF</color>
     <color name="text_color">#002133</color>
-    <color name="text_secondery_color">#44464e</color>
+    <color name="text_secondary_color">#44464e</color>
 </resources>
 
